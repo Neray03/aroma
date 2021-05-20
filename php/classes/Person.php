@@ -1,6 +1,5 @@
 <?php
 
-// Здоровье человека не может быть больше 100!
 class Person
 {
     private $name;
